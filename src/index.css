@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+* {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: revert;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #eec6ff, white, #eec6ff) !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 99.2vh;
+}
